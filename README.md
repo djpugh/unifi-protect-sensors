@@ -45,8 +45,8 @@ entity, and works standalone without requiring the official integration to be in
 
 *Either an API Key **or** Username + Password is required.
 
-> **Note**: Ubiquiti cloud/SSO accounts are not supported. Create a local account in the
-> Protect web UI or generate an API key under **System → API Keys**.
+> **Note**: Ubiquiti cloud/SSO accounts are not supported. Create a local protect admin account in the
+> Protect web UI with edit device settings on the relevant unifi sensors or generate an API key under **System → API Keys**.
 
 ## Authentication
 
